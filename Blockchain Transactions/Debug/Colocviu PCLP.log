@@ -1,5 +1,0 @@
-﻿  Colocviu PCLP.cpp
-D:\CodeBlocks\Proiecte\PCLP 2\Colocviu PCLP\Colocviu PCLP.cpp(131,22): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\CodeBlocks\Proiecte\PCLP 2\Colocviu PCLP\Colocviu PCLP.cpp(188,14): warning C4018: '<': signed/unsigned mismatch
-D:\CodeBlocks\Proiecte\PCLP 2\Colocviu PCLP\Colocviu PCLP.cpp(119): warning C4715: 'Block::getPret': not all control paths return a value
-  Colocviu PCLP.vcxproj -> D:\CodeBlocks\Proiecte\PCLP 2\Colocviu PCLP\Debug\Colocviu PCLP.exe
