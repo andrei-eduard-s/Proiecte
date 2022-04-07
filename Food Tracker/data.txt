@@ -1,0 +1,16 @@
+lapte,50,5,1.5,3
+cereale,80,9,2.3,3
+usturoi,100,2,1.5,3
+mar,160,2,0,1
+lapte praf,250,100,20,5
+napolitane,100,5.4,2.3,5
+mango,150,2,3,4
+kiwi,100,2,3,5
+morcov,150,5,2,6
+iaurt,170,1,2,1
+ou,250,2,0,0
+branza,150,16,3,0
+paine,280,7,50,3
+carnati,240,2,4,16
+mici,240,20,5,50
+popcorn,50,10,4,5

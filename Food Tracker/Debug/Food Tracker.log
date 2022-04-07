@@ -1,0 +1,6 @@
+﻿  Food Tracker.cpp
+D:\Food Tracker\Food Tracker\user.h(5): warning C4091: 'inline ': ignored on left of 'user::BMI' when no variable is declared
+D:\Food Tracker\Food Tracker\user.h(6): warning C4091: 'inline ': ignored on left of 'user::activity' when no variable is declared
+D:\Food Tracker\Food Tracker\user.h(7): warning C4091: 'inline ': ignored on left of 'user::goal' when no variable is declared
+D:\Food Tracker\Food Tracker\user.h(8): warning C4091: 'inline ': ignored on left of 'user::metabolism' when no variable is declared
+  Food Tracker.vcxproj -> D:\Food Tracker\Food Tracker\Debug\Food Tracker.exe
